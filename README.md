@@ -55,10 +55,3 @@
  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="tailwind_css" title="tailwind_css"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="figma" title="figma"/></code>
 </div>
-
-### Мои публичные проекты
-	
-- CordyChecker для проекта [ReallyWorld](https://reallyworld.ru/) - [Открыть](https://github.com/DavidZhivaev/CordyChecker)
-- SchoolAPI для проекта [Московская Электронная Школа](https://school.mos.ru) - [Открыть](https://github.com/DavidZhivaev/SchoolAPI) - В разработке
-- SQLiteQuick для облегченной работы с SQLite3 - [Открыть](https://github.com/DavidZhivaev/SQLiteQuick) - В разработке
-- К сожалению, многие проекты останутся секретом...
